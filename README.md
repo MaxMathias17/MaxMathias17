@@ -10,7 +10,7 @@
 
 ### Actually I'm reading the manga "Jujutsu kaisen" by Gege Akutami
 
-<imgsrc= "https://static.bandainamcoent.eu/high/jujutsu-kaisen/jujutsu-kaisen-cursed-clash/00-page-setup/JJK-header-mobile2.jpg">
+<imgsrc="https://static.bandainamcoent.eu/high/jujutsu-kaisen/jujutsu-kaisen-cursed-clash/00-page-setup/JJK-header-mobile2.jpg">
 
 
 
