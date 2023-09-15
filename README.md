@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hello there 👋
+
+### Big music fan🎤🎵🎧
+
+### I'm a musician 🎻🎸
+
+### I Love watching anime 🏮🎌 and playing videogames🎮🕹️
+
+### Random fact: I want to buy yu-gi-oh! cards
+
+
 
 <!--
 **MaxMathias17/MaxMathias17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
