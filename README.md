@@ -1,4 +1,3 @@
-<img src="https://svg-banners.vercel.app/api?type=glitch&text=¡Bienvenido!&width=800&height=200" alt="Banner animado">
 
 ### Big music fan🎤🎵🎧
 
