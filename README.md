@@ -6,7 +6,7 @@
 
 ### I Love watching anime 🏮🎌 and playing videogames🎮🕹️
 
-![Reloj](https://img.shields.io/badge/hora%20actual-12:45-blue?style=flat-square&logo=clock)
+![Reloj](https://img.shields.io/badge/hora%20actual-XX:XX-blue?style=flat-square&logo=clock)
 
 
 
