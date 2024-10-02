@@ -6,11 +6,6 @@
 
 ### I Love watching anime 🏮🎌 and playing videogames🎮🕹️
 
-### Random fact: I want to buy yu-gi-oh! cards
-
-### Actually I'm reading the manga "Jujutsu kaisen" by Gege Akutami
-
-<img src="https://static.bandainamcoent.eu/high/jujutsu-kaisen/jujutsu-kaisen-cursed-clash/00-page-setup/JJK-header-mobile2.jpg">
 
 
 
